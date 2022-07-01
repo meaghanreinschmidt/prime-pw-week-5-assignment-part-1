@@ -14,7 +14,7 @@ const me = {
     lastName: 'Reinschmidt',
     hasSiblings: true,
     shoeCount: 8,
-    favThreeFoods: ['Burgers', 'Chocolate Chip Pancakes', 'Mashed Potatoes'],
+    favThreeFoods: ['Burgers', 'Mashed Potatoes', 'Chocolate Chip Pancakes'],
 };
 console.log('A little about me:', me);
 
